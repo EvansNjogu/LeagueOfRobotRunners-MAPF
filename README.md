@@ -1,3 +1,10 @@
+# Disclaimer:
+
+This repository contains my personal submissions and attempted solutions for the League of Robot Runners competition. It is not officially affiliated with the competition organizers, nor does it represent the entirety of solutions submitted by all participants. This is solely my interpretation and implementation of the competition's challenges.
+
+![Simulation Example](/image/warehouse-demo.gif)
+
+
 # Start-Kit
 
 ## Join the competition
